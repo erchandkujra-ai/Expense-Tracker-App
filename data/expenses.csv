@@ -1,0 +1,1004 @@
+Date,Category,Description,Amount,Type,Payment_Method
+2025-01-01,Food,Regular transaction,4457.53,Expense,Card
+2025-01-01,Shopping,Regular transaction,2538.02,Expense,Net Banking
+2025-01-01,Education,Monthly purchase,1041.4,Expense,Net Banking
+2025-01-01,Education,Monthly purchase,2173.27,Expense,Cash
+2025-01-01,Shopping,Personal expense,2702.88,Expense,Cash
+2025-01-01,Entertainment,Online order,438.36,Expense,UPI
+2025-01-02,Entertainment,Regular transaction,99.12,Expense,Cash
+2025-01-02,Travel,Regular transaction,3197.98,Income,Cash
+2025-01-02,Healthcare,Regular transaction,376.75,Expense,Cash
+2025-01-03,Bills,Online order,2190.11,Expense,Net Banking
+2025-01-04,Entertainment,Regular transaction,3551.62,Expense,Card
+2025-01-04,Education,Daily payment,3539.11,Expense,Cash
+2025-01-04,Shopping,Personal expense,3221.05,Expense,Card
+2025-01-04,Food,Daily payment,4711.38,Income,UPI
+2025-01-05,Entertainment,Monthly purchase,2196.23,Expense,UPI
+2025-01-05,Bills,Monthly purchase,3839.46,Expense,UPI
+2025-01-05,Travel,Monthly purchase,4300.88,Expense,Cash
+2025-01-05,Healthcare,Monthly purchase,1615.54,Expense,Net Banking
+2025-01-05,Bills,Online order,744.61,Expense,Net Banking
+2025-01-06,Education,Regular transaction,2301.08,Expense,Card
+2025-01-06,Food,Monthly purchase,1803.64,Expense,Cash
+2025-01-06,Food,Monthly purchase,4634.66,Expense,UPI
+2025-01-06,Education,Monthly purchase,3833.55,Expense,Net Banking
+2025-01-07,Healthcare,Regular transaction,1873.32,Expense,UPI
+2025-01-07,Entertainment,Personal expense,4790.03,Expense,Card
+2025-01-08,Entertainment,Monthly purchase,1127.45,Income,UPI
+2025-01-08,Food,Online order,844.29,Expense,Net Banking
+2025-01-08,Food,Daily payment,1396.13,Expense,Net Banking
+2025-01-09,Bills,Monthly purchase,2274.28,Income,Cash
+2025-01-09,Shopping,Regular transaction,1488.0,Expense,UPI
+2025-01-09,Education,Regular transaction,126.2,Expense,Card
+2025-01-10,Shopping,Daily payment,2789.19,Expense,Card
+2025-01-10,Food,Regular transaction,1933.56,Income,UPI
+2025-01-12,Bills,Personal expense,3805.64,Income,UPI
+2025-01-12,Travel,Regular transaction,571.7,Expense,UPI
+2025-01-12,Bills,Personal expense,2880.14,Expense,Card
+2025-01-13,Education,Personal expense,4994.52,Expense,Net Banking
+2025-01-13,Food,Personal expense,2211.24,Expense,UPI
+2025-01-13,Healthcare,Online order,3817.14,Expense,Cash
+2025-01-13,Bills,Personal expense,937.86,Income,UPI
+2025-01-14,Food,Regular transaction,3715.36,Expense,Card
+2025-01-14,Entertainment,Regular transaction,158.47,Expense,UPI
+2025-01-14,Food,Regular transaction,2996.75,Expense,UPI
+2025-01-14,Education,Monthly purchase,979.23,Expense,UPI
+2025-01-15,Shopping,Online order,3955.22,Expense,Net Banking
+2025-01-15,Shopping,Regular transaction,1821.18,Expense,Card
+2025-01-15,Travel,Online order,3350.89,Expense,Net Banking
+2025-01-16,Education,Daily payment,4094.78,Expense,Cash
+2025-01-17,Entertainment,Online order,3869.55,Expense,Card
+2025-01-18,Education,Personal expense,3816.99,Income,Card
+2025-01-19,Travel,Monthly purchase,1379.24,Expense,UPI
+2025-01-19,Food,Personal expense,359.51,Expense,Net Banking
+2025-01-20,Entertainment,Personal expense,1797.6,Expense,Card
+2025-01-20,Food,Online order,366.83,Income,UPI
+2025-01-20,Shopping,Online order,3513.22,Expense,UPI
+2025-01-21,Food,Regular transaction,3400.27,Expense,UPI
+2025-01-21,Travel,Regular transaction,3820.9,Income,Net Banking
+2025-01-22,Entertainment,Regular transaction,890.91,Expense,Cash
+2025-01-22,Entertainment,Online order,1334.73,Expense,Card
+2025-01-22,Entertainment,Regular transaction,4423.15,Expense,UPI
+2025-01-23,Entertainment,Regular transaction,335.77,Income,UPI
+2025-01-23,Bills,Online order,4738.1,Expense,Net Banking
+2025-01-25,Bills,Online order,124.8,Expense,UPI
+2025-01-25,Bills,Online order,3753.51,Income,Cash
+2025-01-25,Travel,Regular transaction,382.92,Expense,Card
+2025-01-26,Shopping,Regular transaction,3016.55,Expense,UPI
+2025-01-26,Healthcare,Personal expense,4118.06,Expense,Net Banking
+2025-01-26,Shopping,Daily payment,1448.27,Expense,UPI
+2025-01-27,Food,Personal expense,4721.32,Expense,Cash
+2025-01-28,Food,Online order,3887.96,Expense,UPI
+2025-01-28,Shopping,Online order,1083.97,Expense,Cash
+2025-01-28,Food,Daily payment,4446.19,Expense,Cash
+2025-01-28,Shopping,Daily payment,1583.54,Expense,Cash
+2025-01-28,Bills,Daily payment,1359.94,Expense,Net Banking
+2025-01-29,Bills,Daily payment,3348.61,Expense,Cash
+2025-01-29,Shopping,Online order,508.5,Expense,Card
+2025-01-30,Shopping,Personal expense,4027.51,Expense,Cash
+2025-01-31,Shopping,Regular transaction,3265.07,Income,Card
+2025-02-02,Entertainment,Personal expense,3166.31,Expense,Net Banking
+2025-02-02,Shopping,Online order,2012.94,Expense,Cash
+2025-02-02,Bills,Personal expense,4906.66,Expense,Card
+2025-02-03,Food,Daily payment,2195.69,Expense,Card
+2025-02-03,Food,Online order,4451.18,Expense,UPI
+2025-02-03,Bills,Monthly purchase,2089.19,Expense,UPI
+2025-02-03,Shopping,Personal expense,1834.11,Expense,UPI
+2025-02-04,Travel,Online order,360.31,Income,Net Banking
+2025-02-04,Education,Regular transaction,306.59,Expense,Cash
+2025-02-04,Entertainment,Monthly purchase,488.59,Income,Cash
+2025-02-04,Entertainment,Regular transaction,3349.67,Expense,UPI
+2025-02-04,Bills,Personal expense,1804.4,Expense,Card
+2025-02-05,Education,Personal expense,2986.13,Expense,Cash
+2025-02-05,Food,Personal expense,3805.94,Expense,Card
+2025-02-05,Food,Daily payment,4831.94,Income,Card
+2025-02-05,Bills,Monthly purchase,2120.75,Expense,Net Banking
+2025-02-06,Healthcare,Online order,1149.28,Expense,Card
+2025-02-06,Shopping,Monthly purchase,4902.83,Expense,Card
+2025-02-06,Travel,Online order,1758.7,Expense,Card
+2025-02-07,Food,Online order,411.75,Expense,Net Banking
+2025-02-07,Food,Monthly purchase,2884.41,Expense,Net Banking
+2025-02-08,Bills,Daily payment,3936.69,Expense,Cash
+2025-02-08,Food,Regular transaction,4509.76,Income,Card
+2025-02-08,Healthcare,Personal expense,1711.27,Expense,Cash
+2025-02-08,Food,Online order,228.29,Expense,Net Banking
+2025-02-08,Bills,Regular transaction,2321.76,Income,Cash
+2025-02-08,Food,Online order,621.2,Expense,UPI
+2025-02-08,Shopping,Regular transaction,3069.54,Expense,Cash
+2025-02-09,Bills,Daily payment,4031.85,Expense,Net Banking
+2025-02-10,Food,Regular transaction,4895.96,Expense,Net Banking
+2025-02-10,Shopping,Personal expense,757.24,Expense,UPI
+2025-02-10,Healthcare,Regular transaction,2700.99,Expense,Card
+2025-02-11,Education,Online order,2197.4,Expense,Card
+2025-02-11,Food,Online order,3008.46,Expense,Card
+2025-02-11,Bills,Regular transaction,1198.49,Expense,UPI
+2025-02-12,Food,Personal expense,1894.04,Expense,Net Banking
+2025-02-12,Food,Personal expense,3993.57,Expense,UPI
+2025-02-13,Food,Regular transaction,1880.58,Expense,Cash
+2025-02-13,Education,Monthly purchase,2943.02,Expense,Cash
+2025-02-13,Food,Online order,1289.82,Expense,Net Banking
+2025-02-13,Food,Monthly purchase,2636.75,Expense,Card
+2025-02-14,Healthcare,Daily payment,4786.16,Expense,Cash
+2025-02-15,Entertainment,Personal expense,1667.38,Expense,Cash
+2025-02-15,Entertainment,Online order,3287.96,Expense,Cash
+2025-02-15,Food,Regular transaction,1817.3,Expense,Net Banking
+2025-02-16,Food,Monthly purchase,1051.16,Expense,Cash
+2025-02-16,Bills,Daily payment,3658.46,Income,Cash
+2025-02-16,Education,Personal expense,1169.32,Expense,Net Banking
+2025-02-16,Food,Monthly purchase,4806.55,Expense,Card
+2025-02-16,Entertainment,Daily payment,4132.48,Income,UPI
+2025-02-17,Bills,Online order,4763.5,Expense,UPI
+2025-02-17,Shopping,Regular transaction,431.01,Expense,Card
+2025-02-17,Shopping,Regular transaction,318.94,Expense,Net Banking
+2025-02-18,Travel,Daily payment,2847.17,Expense,Net Banking
+2025-02-18,Food,Personal expense,4635.59,Income,Net Banking
+2025-02-19,Travel,Daily payment,2067.34,Expense,Card
+2025-02-20,Food,Online order,1691.25,Expense,Cash
+2025-02-20,Travel,Monthly purchase,381.52,Expense,UPI
+2025-02-20,Healthcare,Personal expense,4024.86,Expense,Net Banking
+2025-02-20,Food,Regular transaction,991.03,Expense,Card
+2025-02-20,Travel,Personal expense,1532.01,Expense,UPI
+2025-02-20,Bills,Monthly purchase,2727.48,Expense,UPI
+2025-02-21,Entertainment,Personal expense,1926.52,Expense,Card
+2025-02-21,Food,Regular transaction,2494.38,Expense,UPI
+2025-02-21,Food,Online order,505.73,Expense,UPI
+2025-02-22,Education,Regular transaction,1985.61,Expense,Net Banking
+2025-02-22,Food,Monthly purchase,2154.88,Expense,Cash
+2025-02-22,Shopping,Regular transaction,4881.27,Expense,Card
+2025-02-22,Healthcare,Online order,4826.83,Income,Net Banking
+2025-02-22,Bills,Monthly purchase,2817.34,Expense,UPI
+2025-02-22,Education,Monthly purchase,4535.25,Expense,UPI
+2025-02-22,Food,Regular transaction,3309.78,Expense,UPI
+2025-02-23,Food,Monthly purchase,4385.62,Expense,Card
+2025-02-23,Travel,Online order,2619.21,Expense,Net Banking
+2025-02-23,Shopping,Regular transaction,4483.59,Expense,Card
+2025-02-23,Travel,Online order,328.07,Expense,Card
+2025-02-23,Travel,Daily payment,3783.61,Expense,Net Banking
+2025-02-23,Food,Regular transaction,1776.66,Expense,Net Banking
+2025-02-23,Food,Personal expense,2265.98,Expense,UPI
+2025-02-24,Shopping,Personal expense,4031.96,Expense,Cash
+2025-02-25,Shopping,Monthly purchase,3488.47,Expense,Card
+2025-02-25,Shopping,Daily payment,2153.01,Expense,Cash
+2025-02-26,Travel,Personal expense,3547.82,Expense,Cash
+2025-02-27,Healthcare,Personal expense,4035.2,Expense,Card
+2025-02-27,Healthcare,Online order,4596.21,Expense,Net Banking
+2025-02-27,Entertainment,Daily payment,4063.85,Expense,UPI
+2025-02-27,Entertainment,Online order,4607.79,Expense,Net Banking
+2025-02-27,Travel,Daily payment,2973.66,Income,Net Banking
+2025-02-27,Entertainment,Daily payment,4093.06,Expense,Cash
+2025-02-28,Food,Monthly purchase,144.62,Expense,Cash
+2025-03-01,Shopping,Regular transaction,235.98,Expense,Cash
+2025-03-01,Food,Personal expense,4065.06,Expense,UPI
+2025-03-02,Bills,Monthly purchase,3495.97,Expense,Net Banking
+2025-03-02,Food,Monthly purchase,3920.7,Expense,Cash
+2025-03-03,Shopping,Regular transaction,2526.99,Expense,Card
+2025-03-03,Entertainment,Personal expense,1765.29,Expense,UPI
+2025-03-03,Entertainment,Regular transaction,3260.76,Expense,Cash
+2025-03-03,Bills,Online order,3755.79,Expense,Net Banking
+2025-03-04,Food,Regular transaction,3428.96,Expense,UPI
+2025-03-04,Food,Daily payment,402.23,Expense,Net Banking
+2025-03-04,Shopping,Regular transaction,59.86,Expense,Net Banking
+2025-03-04,Bills,Personal expense,1917.72,Expense,Net Banking
+2025-03-06,Food,Personal expense,1485.73,Expense,Net Banking
+2025-03-06,Food,Monthly purchase,658.46,Expense,UPI
+2025-03-06,Food,Daily payment,3072.21,Expense,UPI
+2025-03-07,Bills,Daily payment,288.52,Expense,Cash
+2025-03-07,Travel,Online order,1303.7,Expense,Card
+2025-03-08,Shopping,Daily payment,4297.22,Income,Card
+2025-03-09,Education,Personal expense,4276.24,Expense,UPI
+2025-03-09,Healthcare,Personal expense,4042.99,Expense,UPI
+2025-03-10,Travel,Monthly purchase,3488.25,Income,Card
+2025-03-10,Food,Regular transaction,3260.1,Income,Net Banking
+2025-03-10,Entertainment,Personal expense,3807.08,Expense,UPI
+2025-03-10,Food,Daily payment,4028.88,Expense,Net Banking
+2025-03-11,Entertainment,Daily payment,502.39,Expense,Card
+2025-03-11,Food,Daily payment,3795.81,Expense,Cash
+2025-03-13,Education,Online order,2685.9,Expense,UPI
+2025-03-13,Food,Regular transaction,1464.63,Expense,UPI
+2025-03-14,Entertainment,Online order,2395.91,Expense,Cash
+2025-03-15,Food,Regular transaction,2935.48,Expense,Net Banking
+2025-03-16,Healthcare,Online order,1247.37,Expense,Card
+2025-03-16,Travel,Regular transaction,99.39,Income,UPI
+2025-03-16,Travel,Personal expense,2192.2,Expense,Cash
+2025-03-16,Education,Personal expense,1896.96,Expense,Net Banking
+2025-03-17,Food,Monthly purchase,2070.35,Expense,UPI
+2025-03-17,Travel,Personal expense,1877.94,Expense,Card
+2025-03-17,Bills,Daily payment,3038.0,Expense,Net Banking
+2025-03-19,Food,Personal expense,2915.09,Expense,UPI
+2025-03-19,Food,Regular transaction,2108.09,Expense,Cash
+2025-03-19,Shopping,Personal expense,3326.75,Expense,UPI
+2025-03-21,Bills,Daily payment,2299.01,Expense,Card
+2025-03-22,Food,Regular transaction,434.36,Expense,Cash
+2025-03-22,Bills,Daily payment,3584.07,Expense,Cash
+2025-03-22,Travel,Daily payment,4392.88,Expense,Net Banking
+2025-03-22,Bills,Regular transaction,2051.23,Expense,Cash
+2025-03-23,Food,Regular transaction,4708.55,Expense,Net Banking
+2025-03-24,Travel,Regular transaction,3288.99,Expense,Cash
+2025-03-24,Bills,Online order,4801.32,Expense,Card
+2025-03-25,Travel,Daily payment,2018.18,Income,Card
+2025-03-26,Bills,Monthly purchase,2806.55,Expense,Cash
+2025-03-27,Entertainment,Monthly purchase,3501.19,Expense,Cash
+2025-03-27,Food,Monthly purchase,3920.03,Expense,UPI
+2025-03-27,Bills,Regular transaction,4232.11,Expense,Cash
+2025-03-29,Bills,Online order,4334.61,Income,Cash
+2025-03-30,Bills,Online order,259.99,Expense,Card
+2025-03-30,Education,Regular transaction,3702.45,Expense,Card
+2025-03-31,Food,Regular transaction,4414.37,Expense,Cash
+2025-03-31,Travel,Personal expense,1568.54,Expense,UPI
+2025-03-31,Travel,Monthly purchase,2468.05,Expense,Card
+2025-03-31,Shopping,Online order,1703.55,Expense,Cash
+2025-04-01,Education,Online order,1111.31,Expense,UPI
+2025-04-02,Travel,Daily payment,3372.23,Expense,UPI
+2025-04-02,Education,Regular transaction,3912.81,Expense,Net Banking
+2025-04-02,Food,Daily payment,3577.48,Expense,UPI
+2025-04-02,Bills,Daily payment,4237.31,Expense,Cash
+2025-04-03,Education,Daily payment,3125.4,Expense,Cash
+2025-04-03,Food,Regular transaction,3844.25,Expense,Cash
+2025-04-04,Entertainment,Regular transaction,3500.82,Expense,Net Banking
+2025-04-04,Education,Monthly purchase,4315.37,Expense,Cash
+2025-04-05,Travel,Personal expense,4649.24,Expense,Cash
+2025-04-05,Travel,Daily payment,2172.08,Expense,Cash
+2025-04-05,Travel,Monthly purchase,91.4,Income,Cash
+2025-04-05,Travel,Online order,4172.51,Expense,UPI
+2025-04-05,Bills,Online order,3175.52,Income,UPI
+2025-04-06,Entertainment,Monthly purchase,601.99,Expense,Card
+2025-04-06,Bills,Regular transaction,4852.77,Expense,Card
+2025-04-06,Food,Personal expense,3767.15,Expense,Card
+2025-04-06,Education,Regular transaction,1968.86,Expense,Cash
+2025-04-06,Entertainment,Personal expense,878.24,Expense,Card
+2025-04-07,Shopping,Daily payment,166.8,Expense,Cash
+2025-04-07,Bills,Online order,3798.69,Expense,Net Banking
+2025-04-08,Travel,Online order,1534.01,Expense,UPI
+2025-04-08,Food,Monthly purchase,1701.46,Expense,UPI
+2025-04-08,Healthcare,Monthly purchase,144.69,Expense,Card
+2025-04-09,Bills,Online order,1181.95,Expense,Card
+2025-04-09,Food,Online order,2755.56,Expense,Card
+2025-04-09,Bills,Online order,194.39,Expense,Cash
+2025-04-09,Shopping,Personal expense,1019.37,Expense,Net Banking
+2025-04-09,Healthcare,Regular transaction,1035.01,Expense,UPI
+2025-04-09,Education,Regular transaction,4456.2,Expense,Net Banking
+2025-04-09,Travel,Monthly purchase,2580.09,Expense,Card
+2025-04-09,Bills,Regular transaction,4459.73,Expense,Cash
+2025-04-09,Shopping,Personal expense,1373.64,Expense,Card
+2025-04-10,Food,Online order,4893.7,Expense,UPI
+2025-04-10,Food,Personal expense,3685.5,Expense,Cash
+2025-04-10,Shopping,Regular transaction,4904.66,Expense,Cash
+2025-04-10,Bills,Online order,3300.94,Expense,Card
+2025-04-11,Education,Personal expense,4333.21,Expense,UPI
+2025-04-11,Food,Personal expense,2097.53,Expense,Card
+2025-04-11,Entertainment,Monthly purchase,121.19,Expense,UPI
+2025-04-11,Education,Regular transaction,68.91,Expense,Cash
+2025-04-11,Entertainment,Online order,2718.52,Expense,Net Banking
+2025-04-13,Food,Regular transaction,50.06,Income,UPI
+2025-04-13,Travel,Monthly purchase,3631.05,Expense,Card
+2025-04-13,Entertainment,Online order,1963.38,Income,Card
+2025-04-13,Shopping,Personal expense,2442.87,Expense,Net Banking
+2025-04-14,Travel,Regular transaction,553.93,Expense,Card
+2025-04-14,Food,Daily payment,3414.12,Expense,UPI
+2025-04-15,Food,Regular transaction,2052.41,Income,Card
+2025-04-15,Food,Regular transaction,870.45,Expense,Card
+2025-04-16,Bills,Regular transaction,599.44,Expense,Cash
+2025-04-16,Travel,Daily payment,1160.25,Income,UPI
+2025-04-16,Travel,Online order,1057.19,Expense,Net Banking
+2025-04-17,Food,Regular transaction,2559.95,Income,Net Banking
+2025-04-17,Food,Daily payment,1907.88,Expense,Card
+2025-04-18,Bills,Daily payment,1875.1,Expense,UPI
+2025-04-18,Bills,Personal expense,682.94,Expense,UPI
+2025-04-19,Food,Daily payment,1598.89,Expense,Net Banking
+2025-04-19,Bills,Monthly purchase,1245.41,Expense,UPI
+2025-04-21,Food,Regular transaction,2085.4,Expense,Net Banking
+2025-04-21,Travel,Regular transaction,1879.39,Expense,Net Banking
+2025-04-21,Food,Online order,161.01,Expense,Cash
+2025-04-21,Travel,Online order,204.19,Expense,Cash
+2025-04-21,Food,Monthly purchase,3929.5,Expense,UPI
+2025-04-22,Shopping,Daily payment,2325.34,Expense,Card
+2025-04-22,Entertainment,Regular transaction,3974.15,Expense,Net Banking
+2025-04-22,Entertainment,Monthly purchase,2239.35,Income,UPI
+2025-04-22,Bills,Daily payment,777.47,Expense,Card
+2025-04-23,Food,Regular transaction,2489.68,Expense,Cash
+2025-04-23,Food,Personal expense,3477.18,Expense,Cash
+2025-04-23,Food,Monthly purchase,665.62,Income,Net Banking
+2025-04-23,Food,Regular transaction,2527.99,Expense,Cash
+2025-04-23,Entertainment,Daily payment,2995.9,Expense,Cash
+2025-04-23,Bills,Personal expense,4198.87,Expense,Cash
+2025-04-23,Food,Regular transaction,4185.63,Expense,Card
+2025-04-24,Bills,Monthly purchase,1464.5,Expense,UPI
+2025-04-24,Education,Personal expense,1292.46,Expense,Card
+2025-04-25,Entertainment,Online order,3676.86,Income,Cash
+2025-04-26,Bills,Regular transaction,3329.05,Expense,Card
+2025-04-26,Travel,Regular transaction,2671.82,Expense,Cash
+2025-04-26,Bills,Personal expense,3405.18,Expense,Card
+2025-04-27,Healthcare,Online order,388.87,Expense,UPI
+2025-04-27,Bills,Regular transaction,4514.6,Expense,Cash
+2025-04-28,Entertainment,Personal expense,757.07,Expense,Net Banking
+2025-04-28,Bills,Daily payment,4194.97,Income,Net Banking
+2025-04-28,Entertainment,Online order,3469.88,Expense,UPI
+2025-04-28,Entertainment,Daily payment,2939.68,Expense,Net Banking
+2025-04-29,Shopping,Online order,4494.7,Expense,Net Banking
+2025-04-29,Shopping,Regular transaction,3754.36,Expense,Cash
+2025-04-30,Shopping,Monthly purchase,714.66,Expense,Cash
+2025-04-30,Food,Monthly purchase,2142.01,Expense,UPI
+2025-05-01,Healthcare,Online order,1117.92,Expense,Net Banking
+2025-05-01,Entertainment,Personal expense,1603.44,Expense,Cash
+2025-05-02,Food,Personal expense,574.23,Expense,UPI
+2025-05-02,Entertainment,Daily payment,3322.02,Expense,UPI
+2025-05-02,Education,Monthly purchase,398.94,Income,UPI
+2025-05-02,Travel,Daily payment,2580.81,Expense,UPI
+2025-05-02,Shopping,Monthly purchase,3771.15,Income,UPI
+2025-05-02,Entertainment,Daily payment,554.37,Expense,UPI
+2025-05-03,Shopping,Daily payment,3877.05,Expense,Card
+2025-05-04,Travel,Online order,3926.83,Expense,Card
+2025-05-04,Shopping,Regular transaction,4835.89,Income,Card
+2025-05-05,Travel,Personal expense,4706.88,Income,Cash
+2025-05-06,Healthcare,Online order,4200.53,Expense,Cash
+2025-05-06,Shopping,Daily payment,1282.59,Expense,Card
+2025-05-06,Healthcare,Online order,3914.13,Expense,Cash
+2025-05-06,Shopping,Regular transaction,3875.96,Expense,Card
+2025-05-06,Food,Monthly purchase,3677.03,Expense,Cash
+2025-05-06,Food,Personal expense,1139.55,Expense,Cash
+2025-05-07,Healthcare,Personal expense,1239.97,Expense,Net Banking
+2025-05-07,Bills,Monthly purchase,3783.53,Expense,Card
+2025-05-07,Bills,Online order,995.09,Expense,Cash
+2025-05-08,Shopping,Regular transaction,272.31,Expense,Cash
+2025-05-08,Entertainment,Daily payment,4716.49,Expense,Card
+2025-05-08,Entertainment,Daily payment,3573.03,Expense,UPI
+2025-05-08,Travel,Online order,4119.79,Expense,Net Banking
+2025-05-09,Food,Monthly purchase,4815.7,Expense,Card
+2025-05-09,Education,Daily payment,3142.68,Expense,Cash
+2025-05-09,Bills,Daily payment,1996.32,Expense,Cash
+2025-05-10,Travel,Regular transaction,2347.27,Expense,UPI
+2025-05-10,Bills,Online order,2630.42,Expense,UPI
+2025-05-11,Travel,Monthly purchase,88.82,Expense,UPI
+2025-05-11,Education,Daily payment,3834.41,Expense,Cash
+2025-05-11,Travel,Daily payment,4789.37,Expense,UPI
+2025-05-11,Travel,Online order,1271.78,Expense,Cash
+2025-05-12,Travel,Monthly purchase,1248.01,Expense,Card
+2025-05-13,Bills,Regular transaction,1977.55,Expense,Card
+2025-05-13,Entertainment,Personal expense,2620.16,Expense,Card
+2025-05-13,Bills,Personal expense,816.4,Expense,Card
+2025-05-13,Bills,Daily payment,3762.39,Expense,Cash
+2025-05-13,Travel,Online order,2303.1,Expense,UPI
+2025-05-14,Shopping,Regular transaction,1887.01,Expense,Net Banking
+2025-05-14,Travel,Daily payment,2526.78,Expense,Net Banking
+2025-05-14,Shopping,Personal expense,2192.01,Expense,Card
+2025-05-15,Education,Daily payment,1393.48,Expense,UPI
+2025-05-15,Entertainment,Monthly purchase,4759.58,Expense,Net Banking
+2025-05-15,Shopping,Personal expense,4989.21,Expense,Card
+2025-05-16,Healthcare,Online order,2198.4,Expense,UPI
+2025-05-16,Food,Personal expense,4079.92,Expense,Net Banking
+2025-05-16,Healthcare,Personal expense,405.29,Expense,UPI
+2025-05-17,Bills,Personal expense,1097.6,Expense,Cash
+2025-05-17,Food,Personal expense,3706.06,Expense,Card
+2025-05-18,Bills,Daily payment,4841.93,Expense,Cash
+2025-05-19,Bills,Monthly purchase,1247.56,Expense,Net Banking
+2025-05-19,Food,Online order,4610.47,Expense,UPI
+2025-05-20,Healthcare,Daily payment,1336.53,Expense,Cash
+2025-05-20,Healthcare,Regular transaction,4023.91,Expense,Card
+2025-05-21,Travel,Personal expense,3380.71,Expense,Cash
+2025-05-21,Entertainment,Monthly purchase,4207.02,Income,UPI
+2025-05-22,Food,Daily payment,2039.34,Expense,Cash
+2025-05-22,Bills,Online order,4468.16,Expense,Net Banking
+2025-05-23,Food,Monthly purchase,2126.27,Expense,Card
+2025-05-23,Shopping,Personal expense,1540.18,Expense,UPI
+2025-05-23,Education,Monthly purchase,876.42,Expense,Cash
+2025-05-24,Food,Monthly purchase,4639.2,Expense,Card
+2025-05-24,Bills,Monthly purchase,57.3,Expense,UPI
+2025-05-24,Education,Monthly purchase,3137.06,Expense,Net Banking
+2025-05-24,Food,Monthly purchase,3396.33,Expense,UPI
+2025-05-24,Healthcare,Online order,3917.54,Expense,Net Banking
+2025-05-24,Food,Regular transaction,4146.16,Expense,Cash
+2025-05-24,Education,Online order,4242.95,Expense,Net Banking
+2025-05-25,Shopping,Online order,4249.71,Expense,Cash
+2025-05-25,Food,Monthly purchase,4151.35,Expense,Cash
+2025-05-25,Entertainment,Monthly purchase,3100.69,Expense,Card
+2025-05-25,Bills,Daily payment,519.84,Expense,Net Banking
+2025-05-25,Food,Online order,94.82,Expense,Card
+2025-05-26,Bills,Regular transaction,3520.64,Expense,UPI
+2025-05-26,Education,Monthly purchase,249.74,Expense,Net Banking
+2025-05-26,Education,Online order,843.81,Expense,Card
+2025-05-27,Healthcare,Daily payment,3722.39,Expense,Cash
+2025-05-27,Healthcare,Daily payment,3553.22,Expense,Cash
+2025-05-27,Travel,Personal expense,3533.31,Expense,UPI
+2025-05-27,Entertainment,Regular transaction,2446.18,Expense,Card
+2025-05-27,Education,Online order,4684.59,Expense,Card
+2025-05-27,Education,Monthly purchase,1274.33,Expense,Card
+2025-05-28,Food,Monthly purchase,3749.85,Expense,UPI
+2025-05-28,Travel,Online order,375.19,Expense,Card
+2025-05-28,Shopping,Regular transaction,4123.77,Expense,Cash
+2025-05-29,Bills,Personal expense,3947.57,Expense,Cash
+2025-05-30,Food,Monthly purchase,2559.26,Income,Net Banking
+2025-05-30,Bills,Daily payment,2955.34,Expense,Net Banking
+2025-05-30,Entertainment,Monthly purchase,2888.97,Income,UPI
+2025-05-31,Shopping,Regular transaction,1860.12,Income,Net Banking
+2025-05-31,Shopping,Monthly purchase,3300.32,Expense,Card
+2025-05-31,Education,Online order,1425.37,Expense,Net Banking
+2025-05-31,Shopping,Regular transaction,3627.55,Expense,Cash
+2025-05-31,Bills,Online order,1291.92,Expense,Cash
+2025-06-01,Food,Daily payment,551.8,Income,Card
+2025-06-01,Food,Daily payment,1472.68,Expense,Cash
+2025-06-01,Shopping,Online order,937.32,Expense,Card
+2025-06-01,Travel,Daily payment,4146.22,Expense,Card
+2025-06-01,Food,Online order,1742.43,Income,UPI
+2025-06-01,Bills,Regular transaction,3173.06,Expense,Card
+2025-06-02,Entertainment,Personal expense,2192.44,Income,UPI
+2025-06-02,Food,Personal expense,4282.4,Expense,UPI
+2025-06-03,Education,Regular transaction,3047.91,Expense,Net Banking
+2025-06-03,Bills,Personal expense,3816.21,Expense,UPI
+2025-06-03,Healthcare,Online order,4667.98,Expense,Cash
+2025-06-04,Food,Monthly purchase,998.39,Expense,Cash
+2025-06-04,Food,Regular transaction,378.99,Income,Net Banking
+2025-06-05,Healthcare,Personal expense,839.49,Expense,Cash
+2025-06-06,Bills,Daily payment,3037.29,Expense,Net Banking
+2025-06-07,Shopping,Online order,2988.13,Expense,Net Banking
+2025-06-07,Travel,Personal expense,3332.08,Expense,UPI
+2025-06-07,Food,Monthly purchase,94.74,Expense,Card
+2025-06-09,Travel,Monthly purchase,1380.82,Income,UPI
+2025-06-09,Entertainment,Personal expense,337.56,Expense,UPI
+2025-06-09,Bills,Daily payment,4591.55,Expense,Card
+2025-06-09,Bills,Monthly purchase,2939.38,Expense,Cash
+2025-06-09,Food,Online order,3606.35,Expense,UPI
+2025-06-09,Food,Monthly purchase,4756.32,Expense,Net Banking
+2025-06-09,Healthcare,Online order,3862.28,Income,UPI
+2025-06-10,Entertainment,Monthly purchase,2019.29,Expense,Cash
+2025-06-10,Food,Regular transaction,3976.06,Expense,Card
+2025-06-10,Bills,Personal expense,4791.77,Expense,UPI
+2025-06-10,Healthcare,Monthly purchase,4470.8,Expense,Net Banking
+2025-06-11,Entertainment,Monthly purchase,1719.17,Expense,UPI
+2025-06-11,Entertainment,Online order,1532.85,Expense,UPI
+2025-06-12,Travel,Regular transaction,297.4,Expense,UPI
+2025-06-12,Bills,Monthly purchase,4726.44,Expense,Cash
+2025-06-12,Bills,Daily payment,2785.9,Expense,Net Banking
+2025-06-12,Shopping,Daily payment,4121.55,Income,Net Banking
+2025-06-13,Food,Daily payment,1900.91,Expense,UPI
+2025-06-13,Food,Monthly purchase,3337.89,Expense,Net Banking
+2025-06-13,Food,Monthly purchase,2240.6,Expense,Card
+2025-06-14,Bills,Monthly purchase,1209.31,Expense,Card
+2025-06-14,Bills,Online order,3754.5,Expense,UPI
+2025-06-14,Entertainment,Personal expense,3241.92,Expense,Net Banking
+2025-06-15,Entertainment,Monthly purchase,424.71,Expense,Cash
+2025-06-16,Travel,Online order,1508.37,Expense,Net Banking
+2025-06-16,Food,Daily payment,1279.46,Expense,Card
+2025-06-17,Travel,Online order,983.28,Expense,UPI
+2025-06-17,Entertainment,Online order,4363.5,Expense,Net Banking
+2025-06-18,Education,Daily payment,4906.9,Expense,UPI
+2025-06-19,Travel,Online order,3867.06,Expense,Cash
+2025-06-19,Food,Daily payment,1832.25,Expense,UPI
+2025-06-19,Education,Personal expense,3121.35,Expense,Card
+2025-06-19,Entertainment,Personal expense,2410.38,Expense,UPI
+2025-06-19,Food,Personal expense,917.35,Expense,Net Banking
+2025-06-19,Entertainment,Personal expense,3378.68,Expense,Cash
+2025-06-20,Shopping,Monthly purchase,3579.58,Expense,UPI
+2025-06-21,Food,Online order,4456.56,Expense,Card
+2025-06-21,Travel,Regular transaction,671.47,Expense,UPI
+2025-06-21,Entertainment,Regular transaction,281.92,Expense,Card
+2025-06-21,Food,Regular transaction,2519.53,Expense,Card
+2025-06-22,Shopping,Online order,2714.74,Expense,Net Banking
+2025-06-22,Shopping,Online order,1448.36,Expense,UPI
+2025-06-22,Bills,Monthly purchase,3497.33,Expense,Net Banking
+2025-06-22,Food,Online order,3053.32,Expense,UPI
+2025-06-22,Food,Personal expense,937.81,Expense,UPI
+2025-06-22,Bills,Personal expense,1873.82,Expense,Net Banking
+2025-06-23,Healthcare,Monthly purchase,2025.22,Expense,Cash
+2025-06-23,Bills,Personal expense,1817.75,Expense,Card
+2025-06-24,Entertainment,Personal expense,715.45,Expense,Cash
+2025-06-25,Bills,Monthly purchase,2869.22,Expense,Net Banking
+2025-06-25,Food,Personal expense,242.7,Expense,Net Banking
+2025-06-26,Education,Daily payment,3485.05,Expense,Net Banking
+2025-06-26,Travel,Personal expense,463.59,Income,Card
+2025-06-26,Entertainment,Personal expense,3179.8,Expense,UPI
+2025-06-26,Shopping,Regular transaction,1472.94,Expense,Cash
+2025-06-27,Healthcare,Online order,4010.02,Expense,Card
+2025-06-27,Entertainment,Online order,1481.48,Expense,Card
+2025-06-28,Travel,Online order,4554.22,Income,Cash
+2025-06-28,Travel,Monthly purchase,701.99,Expense,Net Banking
+2025-06-29,Shopping,Online order,3200.05,Expense,Card
+2025-06-29,Healthcare,Personal expense,174.71,Income,Card
+2025-06-29,Food,Regular transaction,3137.53,Income,Net Banking
+2025-06-29,Bills,Regular transaction,1374.58,Expense,Card
+2025-06-29,Food,Regular transaction,3483.41,Expense,Cash
+2025-06-30,Entertainment,Online order,522.23,Expense,UPI
+2025-06-30,Travel,Daily payment,1391.93,Expense,Net Banking
+2025-07-01,Healthcare,Online order,118.04,Expense,UPI
+2025-07-02,Food,Daily payment,2617.57,Expense,UPI
+2025-07-02,Travel,Online order,3300.81,Income,Net Banking
+2025-07-03,Travel,Online order,2445.75,Expense,Cash
+2025-07-03,Entertainment,Regular transaction,1501.88,Income,UPI
+2025-07-03,Healthcare,Daily payment,379.5,Expense,Card
+2025-07-04,Entertainment,Daily payment,3585.92,Income,Net Banking
+2025-07-05,Shopping,Personal expense,3441.41,Expense,Cash
+2025-07-05,Food,Regular transaction,1075.03,Income,Net Banking
+2025-07-05,Food,Personal expense,4337.17,Expense,Card
+2025-07-06,Food,Personal expense,1525.36,Expense,Net Banking
+2025-07-06,Food,Daily payment,2441.05,Expense,UPI
+2025-07-06,Shopping,Daily payment,2678.14,Expense,UPI
+2025-07-06,Food,Monthly purchase,3912.86,Income,Cash
+2025-07-06,Food,Regular transaction,487.51,Expense,Net Banking
+2025-07-07,Entertainment,Regular transaction,2430.41,Expense,UPI
+2025-07-07,Education,Daily payment,3220.36,Expense,Net Banking
+2025-07-07,Bills,Personal expense,3454.22,Expense,Cash
+2025-07-08,Food,Personal expense,1517.97,Expense,Cash
+2025-07-08,Education,Personal expense,1055.95,Expense,Net Banking
+2025-07-09,Bills,Personal expense,1417.78,Income,UPI
+2025-07-09,Bills,Personal expense,1511.69,Expense,Cash
+2025-07-09,Healthcare,Daily payment,391.59,Income,Net Banking
+2025-07-09,Entertainment,Monthly purchase,3727.26,Expense,Cash
+2025-07-09,Shopping,Daily payment,3303.9,Income,Net Banking
+2025-07-09,Travel,Regular transaction,3478.04,Expense,UPI
+2025-07-10,Travel,Regular transaction,407.97,Expense,Net Banking
+2025-07-10,Food,Regular transaction,636.59,Expense,Net Banking
+2025-07-10,Bills,Personal expense,3702.69,Expense,UPI
+2025-07-11,Food,Daily payment,1648.99,Expense,Cash
+2025-07-11,Food,Monthly purchase,2223.79,Expense,Cash
+2025-07-11,Healthcare,Online order,3226.59,Expense,UPI
+2025-07-11,Entertainment,Daily payment,3586.4,Expense,Card
+2025-07-11,Food,Personal expense,1801.26,Expense,UPI
+2025-07-11,Entertainment,Daily payment,855.36,Expense,Cash
+2025-07-11,Bills,Personal expense,2701.5,Expense,Net Banking
+2025-07-13,Travel,Monthly purchase,2255.43,Expense,Card
+2025-07-13,Entertainment,Personal expense,1412.68,Expense,Cash
+2025-07-13,Shopping,Online order,91.18,Expense,Net Banking
+2025-07-14,Healthcare,Monthly purchase,4032.25,Expense,UPI
+2025-07-14,Shopping,Daily payment,2764.67,Expense,Cash
+2025-07-14,Healthcare,Monthly purchase,4974.36,Income,Card
+2025-07-15,Entertainment,Monthly purchase,2112.0,Expense,Card
+2025-07-15,Food,Monthly purchase,388.35,Expense,Card
+2025-07-16,Bills,Online order,571.46,Expense,Cash
+2025-07-16,Travel,Personal expense,557.71,Expense,UPI
+2025-07-17,Food,Monthly purchase,3249.97,Expense,Net Banking
+2025-07-17,Food,Online order,4045.42,Income,Net Banking
+2025-07-17,Healthcare,Online order,4953.86,Expense,Card
+2025-07-17,Bills,Personal expense,3275.62,Expense,Net Banking
+2025-07-18,Food,Personal expense,336.33,Expense,Card
+2025-07-20,Entertainment,Online order,2508.64,Expense,Cash
+2025-07-20,Healthcare,Regular transaction,3957.0,Expense,Cash
+2025-07-20,Food,Daily payment,4497.87,Expense,Net Banking
+2025-07-21,Food,Monthly purchase,430.47,Expense,Cash
+2025-07-21,Shopping,Daily payment,1136.79,Expense,UPI
+2025-07-21,Education,Monthly purchase,1390.49,Expense,Cash
+2025-07-21,Entertainment,Online order,1660.19,Expense,Net Banking
+2025-07-22,Entertainment,Monthly purchase,136.88,Expense,Card
+2025-07-22,Food,Monthly purchase,3197.9,Income,Net Banking
+2025-07-22,Food,Regular transaction,1279.5,Expense,Card
+2025-07-23,Travel,Personal expense,4045.0,Expense,Cash
+2025-07-24,Food,Regular transaction,3525.62,Expense,Net Banking
+2025-07-24,Entertainment,Monthly purchase,1639.75,Expense,Cash
+2025-07-25,Food,Daily payment,4759.54,Income,Net Banking
+2025-07-25,Entertainment,Regular transaction,2463.76,Expense,Net Banking
+2025-07-26,Food,Online order,1656.33,Expense,Card
+2025-07-26,Food,Daily payment,2825.36,Expense,Net Banking
+2025-07-26,Food,Personal expense,1601.07,Expense,Cash
+2025-07-27,Food,Personal expense,4226.07,Expense,Cash
+2025-07-27,Travel,Personal expense,4027.24,Expense,Card
+2025-07-27,Food,Personal expense,779.15,Expense,Net Banking
+2025-07-31,Bills,Online order,1573.59,Expense,Card
+2025-07-31,Bills,Regular transaction,1666.86,Expense,Net Banking
+2025-07-31,Entertainment,Personal expense,3906.56,Income,Net Banking
+2025-08-01,Healthcare,Monthly purchase,3169.72,Expense,Card
+2025-08-01,Shopping,Personal expense,1440.97,Expense,UPI
+2025-08-02,Travel,Monthly purchase,3549.53,Income,Card
+2025-08-02,Education,Monthly purchase,1132.64,Expense,Card
+2025-08-02,Travel,Personal expense,1245.43,Expense,UPI
+2025-08-03,Shopping,Regular transaction,2766.85,Expense,Cash
+2025-08-03,Healthcare,Regular transaction,410.86,Expense,Card
+2025-08-03,Bills,Personal expense,2487.01,Expense,Card
+2025-08-03,Bills,Online order,2976.1,Expense,Card
+2025-08-03,Entertainment,Online order,3695.85,Expense,Card
+2025-08-04,Shopping,Personal expense,4083.95,Expense,Cash
+2025-08-04,Travel,Regular transaction,1622.05,Expense,Cash
+2025-08-05,Food,Online order,3085.79,Expense,Net Banking
+2025-08-05,Shopping,Monthly purchase,3607.76,Expense,UPI
+2025-08-05,Shopping,Personal expense,2408.36,Income,Cash
+2025-08-05,Food,Monthly purchase,610.85,Expense,Cash
+2025-08-05,Shopping,Regular transaction,1358.17,Expense,Cash
+2025-08-05,Entertainment,Monthly purchase,3442.95,Expense,Card
+2025-08-06,Bills,Monthly purchase,1016.44,Expense,Cash
+2025-08-06,Education,Monthly purchase,133.89,Expense,Card
+2025-08-06,Shopping,Regular transaction,554.37,Expense,Cash
+2025-08-06,Entertainment,Personal expense,4777.82,Expense,UPI
+2025-08-06,Bills,Personal expense,3180.34,Expense,Net Banking
+2025-08-08,Entertainment,Personal expense,4759.88,Expense,Card
+2025-08-08,Food,Personal expense,1287.29,Expense,UPI
+2025-08-08,Bills,Online order,109.91,Expense,Cash
+2025-08-08,Travel,Personal expense,4819.32,Expense,Card
+2025-08-08,Food,Online order,3403.78,Expense,UPI
+2025-08-08,Shopping,Personal expense,4573.25,Income,Card
+2025-08-08,Food,Daily payment,4608.92,Expense,Net Banking
+2025-08-09,Food,Personal expense,4420.82,Expense,Net Banking
+2025-08-10,Bills,Personal expense,2563.64,Income,Card
+2025-08-10,Education,Online order,3648.93,Expense,Net Banking
+2025-08-10,Food,Daily payment,3181.92,Expense,Cash
+2025-08-11,Shopping,Daily payment,1521.59,Expense,Card
+2025-08-11,Education,Personal expense,1992.67,Expense,Cash
+2025-08-11,Shopping,Online order,314.07,Expense,UPI
+2025-08-11,Travel,Monthly purchase,4736.33,Expense,Card
+2025-08-11,Food,Personal expense,4203.04,Expense,UPI
+2025-08-12,Education,Online order,3384.54,Expense,UPI
+2025-08-12,Travel,Online order,1593.73,Expense,Card
+2025-08-12,Entertainment,Personal expense,2188.49,Income,UPI
+2025-08-12,Travel,Monthly purchase,2077.87,Expense,UPI
+2025-08-13,Education,Regular transaction,3068.0,Expense,UPI
+2025-08-13,Food,Online order,2005.9,Expense,Net Banking
+2025-08-13,Food,Monthly purchase,2387.79,Expense,Net Banking
+2025-08-13,Bills,Personal expense,3881.26,Income,UPI
+2025-08-14,Education,Regular transaction,4193.74,Expense,Cash
+2025-08-14,Shopping,Daily payment,4115.87,Expense,Net Banking
+2025-08-14,Bills,Personal expense,4802.67,Income,Cash
+2025-08-15,Food,Online order,242.95,Expense,Cash
+2025-08-15,Food,Personal expense,3264.15,Expense,Net Banking
+2025-08-15,Shopping,Monthly purchase,4204.73,Expense,Cash
+2025-08-15,Bills,Daily payment,4044.48,Expense,UPI
+2025-08-15,Healthcare,Regular transaction,3373.82,Expense,UPI
+2025-08-16,Food,Online order,1816.59,Expense,UPI
+2025-08-16,Bills,Regular transaction,693.9,Expense,Net Banking
+2025-08-17,Shopping,Online order,3589.75,Expense,Net Banking
+2025-08-17,Shopping,Daily payment,1886.16,Income,Cash
+2025-08-17,Entertainment,Online order,3141.84,Expense,UPI
+2025-08-17,Education,Regular transaction,2166.63,Expense,Cash
+2025-08-17,Shopping,Regular transaction,3160.71,Expense,Cash
+2025-08-18,Education,Monthly purchase,3130.6,Expense,UPI
+2025-08-18,Healthcare,Personal expense,2278.76,Expense,Cash
+2025-08-19,Bills,Monthly purchase,1099.37,Expense,UPI
+2025-08-19,Food,Online order,491.98,Expense,UPI
+2025-08-19,Education,Regular transaction,2624.84,Expense,Card
+2025-08-19,Shopping,Personal expense,3534.09,Expense,Net Banking
+2025-08-19,Entertainment,Daily payment,4135.81,Expense,Card
+2025-08-21,Travel,Regular transaction,3190.1,Expense,Net Banking
+2025-08-21,Bills,Regular transaction,2376.44,Expense,UPI
+2025-08-21,Shopping,Regular transaction,1497.3,Expense,Cash
+2025-08-21,Education,Personal expense,4545.73,Expense,Net Banking
+2025-08-21,Food,Daily payment,3058.37,Expense,UPI
+2025-08-21,Travel,Personal expense,4844.26,Expense,Card
+2025-08-21,Travel,Daily payment,2603.52,Expense,Cash
+2025-08-21,Food,Personal expense,4988.26,Expense,UPI
+2025-08-22,Food,Regular transaction,1036.12,Expense,Cash
+2025-08-23,Food,Daily payment,1053.03,Expense,Card
+2025-08-23,Education,Online order,1785.08,Expense,Net Banking
+2025-08-24,Healthcare,Personal expense,1598.25,Expense,Cash
+2025-08-24,Travel,Regular transaction,1061.37,Expense,Card
+2025-08-24,Entertainment,Personal expense,2576.64,Expense,Net Banking
+2025-08-25,Bills,Monthly purchase,1363.36,Expense,UPI
+2025-08-25,Travel,Daily payment,4649.68,Income,Cash
+2025-08-25,Food,Monthly purchase,71.6,Expense,UPI
+2025-08-26,Food,Online order,1334.9,Expense,Card
+2025-08-26,Bills,Online order,1406.65,Expense,Net Banking
+2025-08-26,Food,Personal expense,2213.13,Expense,Net Banking
+2025-08-27,Healthcare,Online order,3416.55,Expense,Cash
+2025-08-27,Entertainment,Personal expense,4401.97,Expense,Cash
+2025-08-27,Entertainment,Monthly purchase,1113.82,Expense,Cash
+2025-08-27,Food,Personal expense,937.3,Expense,Cash
+2025-08-27,Bills,Regular transaction,2745.26,Expense,Net Banking
+2025-08-28,Entertainment,Personal expense,4872.26,Expense,Net Banking
+2025-08-28,Entertainment,Personal expense,4766.43,Expense,UPI
+2025-08-28,Education,Online order,390.13,Expense,UPI
+2025-08-29,Bills,Daily payment,3450.75,Income,Card
+2025-08-30,Food,Monthly purchase,4301.14,Income,Card
+2025-08-30,Shopping,Regular transaction,3386.4,Expense,Net Banking
+2025-08-30,Education,Daily payment,757.11,Expense,Cash
+2025-08-30,Shopping,Monthly purchase,451.69,Income,Cash
+2025-08-31,Food,Monthly purchase,571.56,Income,Card
+2025-08-31,Travel,Online order,4906.53,Expense,Card
+2025-09-01,Travel,Personal expense,1429.86,Expense,Cash
+2025-09-03,Travel,Daily payment,1143.22,Expense,Cash
+2025-09-03,Education,Online order,857.02,Expense,UPI
+2025-09-04,Entertainment,Regular transaction,645.03,Expense,Net Banking
+2025-09-04,Healthcare,Personal expense,305.76,Expense,Net Banking
+2025-09-04,Education,Daily payment,4340.51,Expense,Card
+2025-09-04,Food,Daily payment,4513.78,Expense,Card
+2025-09-04,Food,Personal expense,2569.01,Expense,Cash
+2025-09-04,Travel,Regular transaction,4978.37,Expense,Net Banking
+2025-09-06,Education,Daily payment,330.1,Expense,Card
+2025-09-06,Food,Daily payment,2347.98,Expense,Cash
+2025-09-06,Travel,Personal expense,2358.23,Expense,Card
+2025-09-06,Travel,Online order,1391.17,Expense,UPI
+2025-09-07,Shopping,Regular transaction,630.16,Expense,Cash
+2025-09-07,Education,Online order,2506.48,Expense,UPI
+2025-09-07,Bills,Monthly purchase,106.52,Expense,Cash
+2025-09-08,Shopping,Monthly purchase,3400.86,Expense,Net Banking
+2025-09-08,Entertainment,Regular transaction,2125.39,Expense,UPI
+2025-09-09,Healthcare,Daily payment,2044.22,Expense,Card
+2025-09-09,Shopping,Regular transaction,1168.84,Income,UPI
+2025-09-09,Bills,Monthly purchase,1036.39,Expense,Card
+2025-09-09,Healthcare,Monthly purchase,3542.03,Expense,Net Banking
+2025-09-09,Food,Online order,3130.95,Expense,Net Banking
+2025-09-09,Bills,Daily payment,1179.77,Expense,UPI
+2025-09-09,Travel,Daily payment,4188.78,Expense,Cash
+2025-09-10,Shopping,Personal expense,1302.85,Expense,UPI
+2025-09-10,Food,Monthly purchase,2269.18,Income,Cash
+2025-09-10,Bills,Personal expense,4698.39,Expense,Card
+2025-09-10,Food,Regular transaction,110.18,Expense,Net Banking
+2025-09-10,Entertainment,Personal expense,2552.89,Expense,Card
+2025-09-10,Food,Personal expense,1479.98,Expense,Cash
+2025-09-11,Shopping,Personal expense,1409.78,Income,Card
+2025-09-11,Travel,Personal expense,3386.94,Income,Cash
+2025-09-11,Shopping,Monthly purchase,3520.79,Expense,Card
+2025-09-12,Food,Daily payment,2613.9,Expense,Net Banking
+2025-09-12,Food,Personal expense,1833.16,Expense,Net Banking
+2025-09-12,Shopping,Daily payment,391.78,Expense,Net Banking
+2025-09-13,Food,Regular transaction,4601.68,Expense,Card
+2025-09-13,Food,Online order,4387.78,Expense,Card
+2025-09-14,Food,Regular transaction,3991.4,Expense,Card
+2025-09-14,Travel,Online order,3717.48,Expense,UPI
+2025-09-14,Food,Regular transaction,2216.42,Expense,Cash
+2025-09-15,Food,Daily payment,2548.74,Expense,Cash
+2025-09-15,Food,Online order,1042.35,Income,Net Banking
+2025-09-16,Bills,Online order,1549.43,Income,Card
+2025-09-16,Food,Monthly purchase,1511.74,Expense,UPI
+2025-09-16,Bills,Online order,3475.76,Income,Cash
+2025-09-16,Bills,Personal expense,2480.92,Expense,Net Banking
+2025-09-16,Bills,Daily payment,1264.49,Expense,Card
+2025-09-17,Bills,Online order,899.88,Income,UPI
+2025-09-17,Healthcare,Daily payment,4050.76,Expense,Cash
+2025-09-18,Education,Personal expense,2784.88,Expense,Card
+2025-09-19,Travel,Monthly purchase,2636.43,Expense,Cash
+2025-09-19,Food,Online order,4986.05,Income,Cash
+2025-09-20,Food,Online order,746.97,Expense,UPI
+2025-09-21,Travel,Personal expense,1797.14,Expense,UPI
+2025-09-21,Shopping,Regular transaction,2852.59,Expense,Cash
+2025-09-21,Healthcare,Monthly purchase,3973.35,Expense,Cash
+2025-09-21,Shopping,Regular transaction,3087.34,Expense,Net Banking
+2025-09-21,Food,Online order,1448.24,Expense,UPI
+2025-09-21,Shopping,Daily payment,4734.96,Expense,UPI
+2025-09-22,Entertainment,Monthly purchase,431.05,Expense,UPI
+2025-09-22,Bills,Online order,3779.47,Expense,Net Banking
+2025-09-24,Bills,Monthly purchase,1186.51,Expense,Card
+2025-09-24,Education,Daily payment,424.24,Expense,UPI
+2025-09-25,Entertainment,Regular transaction,1989.7,Expense,UPI
+2025-09-25,Education,Monthly purchase,712.45,Expense,UPI
+2025-09-25,Food,Online order,1719.86,Expense,UPI
+2025-09-25,Shopping,Monthly purchase,828.5,Expense,Cash
+2025-09-25,Food,Online order,384.14,Expense,Net Banking
+2025-09-26,Food,Regular transaction,3660.26,Expense,Net Banking
+2025-09-27,Travel,Personal expense,2528.09,Expense,Net Banking
+2025-09-28,Food,Personal expense,298.62,Expense,Card
+2025-09-28,Bills,Regular transaction,800.4,Expense,UPI
+2025-09-28,Travel,Personal expense,2964.22,Expense,UPI
+2025-09-28,Shopping,Monthly purchase,3627.4,Expense,UPI
+2025-09-29,Bills,Regular transaction,3293.11,Expense,Cash
+2025-09-29,Healthcare,Regular transaction,3027.69,Income,Net Banking
+2025-09-30,Healthcare,Online order,416.82,Expense,Cash
+2025-09-30,Food,Personal expense,4595.28,Income,Cash
+2025-09-30,Shopping,Regular transaction,4980.98,Expense,Card
+2025-09-30,Travel,Personal expense,2142.51,Expense,Net Banking
+2025-10-01,Shopping,Personal expense,120.86,Expense,Card
+2025-10-01,Food,Daily payment,1254.81,Income,UPI
+2025-10-02,Bills,Monthly purchase,1660.21,Income,Net Banking
+2025-10-02,Food,Regular transaction,144.77,Income,Net Banking
+2025-10-02,Shopping,Online order,4393.48,Expense,Cash
+2025-10-04,Food,Regular transaction,2925.7,Expense,Net Banking
+2025-10-04,Shopping,Personal expense,1695.66,Expense,UPI
+2025-10-04,Food,Online order,4242.5,Expense,Card
+2025-10-04,Food,Regular transaction,4805.1,Expense,Cash
+2025-10-04,Education,Online order,2631.23,Expense,Card
+2025-10-04,Food,Regular transaction,2614.14,Income,UPI
+2025-10-05,Food,Personal expense,557.45,Expense,UPI
+2025-10-06,Shopping,Personal expense,4854.85,Expense,UPI
+2025-10-06,Travel,Daily payment,4925.05,Expense,UPI
+2025-10-07,Healthcare,Personal expense,2754.83,Expense,Net Banking
+2025-10-07,Food,Regular transaction,1642.27,Expense,Cash
+2025-10-07,Shopping,Personal expense,1890.11,Expense,UPI
+2025-10-07,Bills,Regular transaction,1641.4,Expense,Card
+2025-10-07,Entertainment,Monthly purchase,3948.37,Income,UPI
+2025-10-08,Entertainment,Daily payment,1890.03,Expense,Net Banking
+2025-10-08,Bills,Online order,76.3,Expense,Net Banking
+2025-10-09,Education,Daily payment,3596.17,Expense,Cash
+2025-10-09,Travel,Daily payment,3823.4,Expense,UPI
+2025-10-09,Shopping,Regular transaction,868.16,Expense,Card
+2025-10-10,Food,Regular transaction,4886.18,Expense,Card
+2025-10-10,Food,Daily payment,4221.42,Expense,Card
+2025-10-10,Food,Monthly purchase,4406.78,Expense,Cash
+2025-10-10,Food,Regular transaction,848.75,Expense,Card
+2025-10-10,Education,Monthly purchase,4544.1,Income,Cash
+2025-10-11,Travel,Monthly purchase,850.27,Expense,UPI
+2025-10-11,Shopping,Personal expense,2315.61,Income,Cash
+2025-10-11,Healthcare,Online order,424.14,Income,Card
+2025-10-11,Shopping,Monthly purchase,3238.54,Expense,Net Banking
+2025-10-12,Shopping,Personal expense,2335.49,Expense,Net Banking
+2025-10-12,Shopping,Monthly purchase,2731.72,Income,UPI
+2025-10-12,Bills,Monthly purchase,3143.13,Expense,UPI
+2025-10-13,Bills,Online order,3537.54,Expense,Cash
+2025-10-13,Food,Monthly purchase,1009.62,Expense,Cash
+2025-10-13,Entertainment,Personal expense,3849.46,Expense,Net Banking
+2025-10-13,Bills,Daily payment,2283.91,Expense,UPI
+2025-10-13,Food,Personal expense,4887.67,Income,Net Banking
+2025-10-15,Travel,Online order,2525.56,Expense,Card
+2025-10-15,Healthcare,Personal expense,2842.17,Expense,Net Banking
+2025-10-15,Bills,Monthly purchase,1063.17,Income,UPI
+2025-10-16,Healthcare,Daily payment,4029.59,Expense,Card
+2025-10-16,Shopping,Daily payment,4328.94,Expense,Net Banking
+2025-10-16,Shopping,Online order,1247.79,Expense,Net Banking
+2025-10-16,Food,Personal expense,2224.09,Expense,Cash
+2025-10-16,Healthcare,Personal expense,4289.86,Expense,Cash
+2025-10-17,Entertainment,Personal expense,3561.14,Expense,Cash
+2025-10-17,Travel,Daily payment,1952.56,Expense,UPI
+2025-10-19,Food,Monthly purchase,3584.56,Expense,Net Banking
+2025-10-19,Entertainment,Online order,3314.58,Expense,Card
+2025-10-20,Food,Online order,1421.21,Expense,Net Banking
+2025-10-20,Food,Personal expense,50.67,Expense,Cash
+2025-10-21,Travel,Monthly purchase,1773.07,Expense,Card
+2025-10-21,Travel,Online order,2808.82,Expense,Card
+2025-10-21,Education,Regular transaction,4277.11,Income,Cash
+2025-10-21,Food,Daily payment,4224.46,Expense,UPI
+2025-10-22,Food,Online order,145.67,Expense,Net Banking
+2025-10-23,Bills,Daily payment,1200.3,Expense,Net Banking
+2025-10-25,Travel,Monthly purchase,1165.64,Expense,Card
+2025-10-26,Travel,Personal expense,2554.49,Expense,Card
+2025-10-27,Travel,Regular transaction,2904.68,Expense,UPI
+2025-10-27,Bills,Online order,3540.44,Expense,Net Banking
+2025-10-28,Shopping,Monthly purchase,824.56,Expense,Net Banking
+2025-10-28,Education,Personal expense,3206.56,Expense,UPI
+2025-10-28,Bills,Monthly purchase,3256.7,Expense,UPI
+2025-10-29,Shopping,Daily payment,3657.86,Expense,Card
+2025-10-29,Education,Monthly purchase,4535.13,Expense,UPI
+2025-10-30,Entertainment,Personal expense,2397.56,Expense,Net Banking
+2025-10-30,Food,Personal expense,3348.99,Expense,Cash
+2025-10-30,Food,Daily payment,1994.02,Expense,Cash
+2025-10-30,Travel,Online order,1384.08,Expense,Net Banking
+2025-10-31,Shopping,Personal expense,1024.78,Expense,UPI
+2025-10-31,Food,Personal expense,357.91,Expense,UPI
+2025-10-31,Food,Regular transaction,3550.08,Expense,Cash
+2025-10-31,Education,Regular transaction,3605.74,Expense,Card
+2025-10-31,Travel,Personal expense,1971.42,Income,Card
+2025-11-01,Education,Daily payment,1694.35,Expense,Cash
+2025-11-01,Food,Regular transaction,2247.4,Expense,Net Banking
+2025-11-02,Healthcare,Personal expense,1070.95,Expense,Cash
+2025-11-02,Bills,Regular transaction,2929.03,Expense,UPI
+2025-11-02,Travel,Personal expense,2451.22,Expense,Card
+2025-11-03,Bills,Monthly purchase,3580.37,Expense,Card
+2025-11-03,Healthcare,Regular transaction,93.87,Income,Cash
+2025-11-04,Education,Daily payment,4791.06,Expense,UPI
+2025-11-04,Shopping,Personal expense,4418.67,Expense,UPI
+2025-11-04,Bills,Monthly purchase,1190.56,Expense,UPI
+2025-11-05,Education,Daily payment,4782.43,Expense,Net Banking
+2025-11-06,Entertainment,Regular transaction,4741.06,Expense,Cash
+2025-11-06,Bills,Online order,1085.47,Income,Card
+2025-11-07,Education,Monthly purchase,2662.0,Expense,Cash
+2025-11-07,Entertainment,Monthly purchase,1554.52,Expense,Cash
+2025-11-07,Education,Monthly purchase,1245.61,Expense,UPI
+2025-11-08,Education,Online order,2540.51,Expense,Net Banking
+2025-11-08,Shopping,Monthly purchase,2631.17,Expense,Net Banking
+2025-11-08,Food,Daily payment,3509.8,Expense,Cash
+2025-11-09,Healthcare,Monthly purchase,139.71,Expense,Card
+2025-11-09,Entertainment,Regular transaction,2607.66,Expense,Card
+2025-11-10,Education,Regular transaction,2076.59,Expense,Net Banking
+2025-11-10,Bills,Online order,359.17,Expense,Cash
+2025-11-10,Food,Online order,3929.61,Expense,Cash
+2025-11-11,Healthcare,Monthly purchase,1870.54,Expense,UPI
+2025-11-11,Food,Online order,2598.92,Expense,UPI
+2025-11-11,Education,Online order,3116.65,Expense,Card
+2025-11-12,Education,Monthly purchase,2921.44,Expense,UPI
+2025-11-12,Travel,Monthly purchase,596.64,Expense,UPI
+2025-11-12,Bills,Regular transaction,4179.02,Expense,Cash
+2025-11-13,Travel,Regular transaction,4666.92,Expense,Cash
+2025-11-13,Education,Online order,4481.96,Expense,Card
+2025-11-13,Shopping,Online order,3724.15,Expense,Cash
+2025-11-13,Education,Daily payment,2410.66,Expense,Net Banking
+2025-11-14,Travel,Personal expense,3004.42,Expense,UPI
+2025-11-14,Entertainment,Regular transaction,4043.13,Expense,Cash
+2025-11-14,Food,Regular transaction,1612.36,Expense,Card
+2025-11-14,Travel,Regular transaction,122.73,Expense,Cash
+2025-11-15,Food,Monthly purchase,1549.51,Expense,Cash
+2025-11-15,Bills,Personal expense,980.21,Expense,UPI
+2025-11-16,Food,Regular transaction,242.74,Expense,Net Banking
+2025-11-16,Travel,Personal expense,810.77,Expense,UPI
+2025-11-16,Shopping,Personal expense,1092.99,Income,UPI
+2025-11-17,Food,Personal expense,2200.3,Expense,Card
+2025-11-17,Education,Daily payment,4475.77,Expense,Card
+2025-11-18,Education,Daily payment,2512.82,Expense,Card
+2025-11-18,Entertainment,Monthly purchase,3390.19,Expense,UPI
+2025-11-19,Shopping,Monthly purchase,4757.1,Expense,Card
+2025-11-19,Shopping,Regular transaction,1583.45,Expense,Card
+2025-11-19,Entertainment,Daily payment,4966.61,Income,Card
+2025-11-20,Entertainment,Online order,890.16,Income,Net Banking
+2025-11-20,Shopping,Personal expense,1364.64,Expense,Cash
+2025-11-21,Bills,Online order,3941.72,Expense,Card
+2025-11-21,Entertainment,Monthly purchase,1213.12,Expense,Card
+2025-11-21,Bills,Regular transaction,56.7,Income,Card
+2025-11-22,Education,Regular transaction,3355.41,Expense,Cash
+2025-11-22,Bills,Monthly purchase,1015.13,Expense,UPI
+2025-11-22,Education,Daily payment,2317.08,Expense,Net Banking
+2025-11-22,Healthcare,Daily payment,3290.52,Expense,UPI
+2025-11-23,Education,Monthly purchase,2540.27,Expense,Cash
+2025-11-23,Entertainment,Online order,2967.8,Income,UPI
+2025-11-23,Entertainment,Personal expense,3527.58,Expense,Card
+2025-11-24,Food,Monthly purchase,1457.16,Expense,Net Banking
+2025-11-25,Entertainment,Online order,4150.92,Expense,UPI
+2025-11-26,Entertainment,Online order,3259.17,Expense,UPI
+2025-11-26,Education,Regular transaction,3833.98,Expense,UPI
+2025-11-26,Bills,Regular transaction,3379.88,Expense,UPI
+2025-11-27,Healthcare,Online order,2907.53,Income,Cash
+2025-11-27,Food,Regular transaction,1182.93,Expense,UPI
+2025-11-27,Food,Monthly purchase,2958.55,Expense,UPI
+2025-11-27,Education,Daily payment,2111.7,Expense,Cash
+2025-11-29,Shopping,Personal expense,2984.56,Expense,Net Banking
+2025-12-01,Entertainment,Monthly purchase,878.42,Expense,Cash
+2025-12-01,Travel,Regular transaction,823.22,Expense,UPI
+2025-12-01,Bills,Regular transaction,958.04,Expense,Card
+2025-12-01,Shopping,Monthly purchase,1969.74,Income,Card
+2025-12-02,Food,Personal expense,4836.82,Income,Net Banking
+2025-12-02,Travel,Daily payment,3558.39,Expense,Cash
+2025-12-03,Bills,Daily payment,1473.78,Expense,Net Banking
+2025-12-03,Food,Monthly purchase,1944.85,Expense,Net Banking
+2025-12-04,Bills,Online order,870.46,Expense,Net Banking
+2025-12-04,Food,Personal expense,3968.21,Expense,UPI
+2025-12-04,Bills,Personal expense,4957.07,Expense,Cash
+2025-12-04,Food,Online order,2055.26,Expense,Cash
+2025-12-05,Food,Monthly purchase,3015.27,Expense,Net Banking
+2025-12-05,Shopping,Online order,4577.02,Expense,Cash
+2025-12-06,Healthcare,Personal expense,427.38,Expense,Net Banking
+2025-12-06,Travel,Regular transaction,4320.07,Income,Card
+2025-12-06,Entertainment,Daily payment,3842.27,Expense,Net Banking
+2025-12-06,Education,Regular transaction,1908.57,Expense,Cash
+2025-12-06,Food,Regular transaction,309.16,Expense,Net Banking
+2025-12-07,Entertainment,Monthly purchase,631.88,Expense,UPI
+2025-12-07,Shopping,Daily payment,1759.44,Expense,UPI
+2025-12-07,Food,Monthly purchase,3458.73,Income,Net Banking
+2025-12-08,Education,Regular transaction,4187.34,Expense,Net Banking
+2025-12-08,Food,Personal expense,1066.4,Income,Cash
+2025-12-08,Shopping,Daily payment,971.37,Expense,Cash
+2025-12-08,Shopping,Personal expense,1824.96,Expense,UPI
+2025-12-08,Food,Regular transaction,3631.07,Income,Cash
+2025-12-08,Bills,Online order,3675.39,Expense,Cash
+2025-12-09,Bills,Daily payment,3403.83,Income,UPI
+2025-12-10,Bills,Monthly purchase,2950.03,Expense,UPI
+2025-12-10,Healthcare,Daily payment,590.86,Expense,Cash
+2025-12-11,Food,Online order,3151.63,Income,Cash
+2025-12-11,Entertainment,Monthly purchase,4448.86,Expense,Cash
+2025-12-12,Food,Regular transaction,2912.58,Expense,Net Banking
+2025-12-12,Travel,Regular transaction,3856.17,Expense,Card
+2025-12-12,Bills,Monthly purchase,1270.69,Expense,Cash
+2025-12-12,Shopping,Personal expense,4464.77,Expense,Cash
+2025-12-12,Shopping,Monthly purchase,948.99,Expense,Net Banking
+2025-12-12,Entertainment,Daily payment,3005.92,Expense,Cash
+2025-12-12,Bills,Personal expense,1275.42,Expense,Cash
+2025-12-13,Bills,Online order,4282.12,Expense,Net Banking
+2025-12-14,Food,Monthly purchase,3103.08,Expense,Card
+2025-12-14,Shopping,Daily payment,968.95,Income,UPI
+2025-12-14,Travel,Daily payment,4259.22,Expense,Cash
+2025-12-14,Food,Regular transaction,4359.11,Expense,Card
+2025-12-15,Travel,Online order,4247.81,Expense,Card
+2025-12-15,Food,Regular transaction,2020.13,Expense,Card
+2025-12-15,Entertainment,Personal expense,267.3,Expense,UPI
+2025-12-15,Entertainment,Regular transaction,2593.58,Expense,UPI
+2025-12-15,Food,Regular transaction,4324.56,Expense,Card
+2025-12-16,Travel,Online order,4644.5,Income,Card
+2025-12-16,Bills,Personal expense,4543.8,Expense,Card
+2025-12-16,Entertainment,Regular transaction,4866.74,Expense,Card
+2025-12-16,Healthcare,Personal expense,1976.69,Expense,UPI
+2025-12-17,Entertainment,Online order,3982.85,Expense,UPI
+2025-12-17,Shopping,Personal expense,1150.69,Expense,Cash
+2025-12-18,Bills,Online order,4822.19,Expense,Card
+2025-12-18,Travel,Regular transaction,3875.41,Expense,Net Banking
+2025-12-18,Food,Personal expense,2395.36,Income,Net Banking
+2025-12-20,Food,Personal expense,2407.86,Expense,Card
+2025-12-21,Shopping,Regular transaction,2047.82,Expense,Net Banking
+2025-12-21,Bills,Daily payment,1357.11,Expense,Cash
+2025-12-21,Entertainment,Daily payment,1555.78,Expense,Cash
+2025-12-21,Travel,Monthly purchase,4754.77,Expense,UPI
+2025-12-22,Education,Daily payment,2936.79,Expense,Net Banking
+2025-12-23,Entertainment,Regular transaction,4725.02,Expense,Card
+2025-12-23,Bills,Regular transaction,2599.28,Expense,UPI
+2025-12-23,Travel,Daily payment,2832.26,Expense,UPI
+2025-12-24,Travel,Monthly purchase,1338.17,Income,Cash
+2025-12-24,Food,Monthly purchase,3058.38,Expense,Card
+2025-12-25,Shopping,Regular transaction,1388.45,Expense,Card
+2025-12-25,Food,Daily payment,726.17,Expense,Net Banking
+2025-12-26,Shopping,Monthly purchase,2906.76,Expense,Net Banking
+2025-12-26,Bills,Monthly purchase,2745.19,Expense,Net Banking
+2025-12-26,Food,Regular transaction,1417.04,Expense,Net Banking
+2025-12-26,Food,Daily payment,2065.18,Expense,UPI
+2025-12-26,Shopping,Online order,2067.54,Expense,Cash
+2025-12-26,Shopping,Personal expense,3325.34,Expense,Net Banking
+2025-12-27,Travel,Personal expense,2744.06,Expense,Net Banking
+2025-12-27,Food,Daily payment,3702.53,Expense,UPI
+2025-12-29,Food,Regular transaction,216.7,Income,UPI
+2025-12-30,Bills,Online order,3706.68,Income,Net Banking
+2025-12-30,Entertainment,Regular transaction,1825.64,Expense,Card
+2025-12-31,Shopping,Online order,2838.81,Expense,Net Banking
+2025-12-31,Education,Daily payment,4197.65,Expense,Card
+2025-12-31,Food,Daily payment,1330.62,Expense,UPI
+2025-12-31,Education,Personal expense,4906.83,Expense,Card
+2025-12-31,Food,Daily payment,320.44,Expense,Card
+2025-12-31,Healthcare,Monthly purchase,3901.22,Expense,UPI
+2026-11-15,Other,,500.0,Income,UPI
+2026-11-15,Other,,500.0,Income,UPI
+2026-11-15,Other,,500.0,Income,UPI

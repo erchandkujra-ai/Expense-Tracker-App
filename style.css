@@ -1,0 +1,117 @@
+
+/* EXPENSE TRACKER - DARK BLUE THEME */
+
+.stApp {
+    background-color: #0B1220;
+    color: #E5E7EB;
+}
+
+.main .block-container {
+    background-color: #0B1220;
+    padding-top: 2rem;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #111C32;
+}
+
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] span {
+    color: #DCE6F5;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    color: #60A5FA !important;
+    font-weight: 700;
+}
+
+/* Normal text */
+p, label {
+    color: #D1D5DB;
+}
+
+/* Metric cards */
+[data-testid="stMetric"] {
+    background-color: #17243B;
+    padding: 20px;
+    border-radius: 14px;
+    border: 1px solid #29466F;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.20);
+}
+
+/* Metric values */
+[data-testid="stMetricValue"] {
+    color: #60A5FA;
+    font-weight: bold;
+}
+
+/* Buttons */
+.stButton > button,
+.stDownloadButton > button {
+    background-color: #2563EB;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 18px;
+    font-weight: 600;
+}
+
+.stButton > button:hover,
+.stDownloadButton > button:hover {
+    background-color: #1D4ED8;
+    color: #FFFFFF;
+}
+
+/* Input fields */
+.stTextInput input,
+.stNumberInput input,
+.stDateInput input {
+    background-color: #17243B;
+    color: #FFFFFF;
+    border: 1px solid #365780;
+    border-radius: 7px;
+}
+
+/* Select boxes */
+.stSelectbox [data-baseweb="select"] {
+    background-color: #17243B;
+    color: #FFFFFF;
+}
+
+/* Dataframe */
+[data-testid="stDataFrame"] {
+    background-color: #17243B;
+    border-radius: 10px;
+    border: 1px solid #29466F;
+}
+
+/* Divider */
+hr {
+    border-color: #29466F;
+}
+
+/* Progress bar */
+.stProgress > div > div > div {
+    background-color: #3B82F6;
+}
+
+/* File uploader */
+[data-testid="stFileUploader"] {
+    background-color: #17243B;
+    border: 1px dashed #3B82F6;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Alerts */
+[data-testid="stAlert"] {
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    visibility: hidden;
+}
